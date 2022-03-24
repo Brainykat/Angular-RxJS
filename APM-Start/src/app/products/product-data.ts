@@ -19,7 +19,7 @@ export class ProductData {
       productCode: 'GDN-0023',
       description: '15 gallon capacity rolling garden cart',
       price: 32.99,
-      categoryId: 1,
+      categoryId: 2,
       quantityInStock: 2,
       supplierIds: [3, 4]
     },
